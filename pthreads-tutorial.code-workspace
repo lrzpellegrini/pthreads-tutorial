@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "0-without_multithreading"
+		},
+		{
+			"path": "1-create_and_join"
+		},
+		{
+			"path": "2-multiple_threads"
+		},
+		{
+			"path": "3-complex_input"
+		}
+	],
+	"settings": {}
+}
