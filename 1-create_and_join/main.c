@@ -1,6 +1,6 @@
 /*
-This program creates a new thread. 
-That thread will print a message to the console and then exit.
+    This program creates a new thread. 
+    That thread will print a message to the console and then exit.
 */
 
 #include <pthread.h>

@@ -1,3 +1,7 @@
+/*
+A simple program that calls a function to say hello.
+*/
+
 #include <stdio.h>
 
 void PrintHello();

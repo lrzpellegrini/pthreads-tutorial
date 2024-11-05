@@ -1,6 +1,6 @@
 /*
-This program creates 5 threads. 
-Each thread prints a message to the console.
+    This program creates 5 threads. 
+    Each thread prints a message to the console.
 */
 
 #include <pthread.h>

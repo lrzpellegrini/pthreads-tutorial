@@ -1,5 +1,5 @@
 /*
-This program creates 5 threads and passes complex data to each thread. 
+    This program creates 5 threads and passes complex data to each thread. 
 */
 
 #include <pthread.h>
