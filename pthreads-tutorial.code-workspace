@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "3-complex_input"
+		},
+		{
+			"path": "4-mutex"
 		}
 	],
 	"settings": {}
