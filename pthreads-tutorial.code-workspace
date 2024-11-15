@@ -26,6 +26,12 @@
 		},
 		{
 			"path": "8-barrier"
+		},
+		{
+			"path": "exercise_1-parallel_sum"
+		},
+		{
+			"path": "solution_1-parallel_sum"
 		}
 	],
 	"settings": {}
