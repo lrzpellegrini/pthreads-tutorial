@@ -20,6 +20,12 @@
 		},
 		{
 			"path": "6-monitor"
+		},
+		{
+			"path": "7-monitor_broadcast"
+		},
+		{
+			"path": "8-barrier"
 		}
 	],
 	"settings": {}
