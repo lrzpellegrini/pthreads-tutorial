@@ -32,6 +32,12 @@
 		},
 		{
 			"path": "solution_1-parallel_sum"
+		},
+		{
+			"path": "exercise_2-heads_tails"
+		},
+		{
+			"path": "solution_2-heads_tails"
 		}
 	],
 	"settings": {}
