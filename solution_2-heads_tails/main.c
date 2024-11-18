@@ -132,7 +132,8 @@ bool coin_flip()
     #ifdef _WIN32
         unsigned int random_value;
         // Generate a random number
-        return (rand_s(&random_value) % 2) == 0;
+        rand_s(&random_value);
+        return (random_value % 2) == 0;
     #elif defined(__linux__)
         double rng_result;
         if (!initialized)
